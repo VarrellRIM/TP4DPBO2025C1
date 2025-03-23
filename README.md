@@ -1,6 +1,9 @@
-# Mahasiswa Management System
+# TP 4 - Mahasiswa Management System
 
 Aplikasi manajemen data mahasiswa sederhana menggunakan Java Swing.
+
+## Janji
+Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
 
@@ -91,65 +94,12 @@ Aplikasi ini telah ditambahkan fitur baru berupa slider untuk memilih semester m
 - Nilai semester yang dipilih ditampilkan di sebelah slider
 - Nilai semester disimpan dalam objek Mahasiswa dan ditampilkan di tabel
 
-## Dokumentasi Program
+## Screenshot Program
+![image](https://github.com/user-attachments/assets/a619f0b9-98a7-4556-bb11-37e56551a867)
 
-### Tampilan Awal Program
 
-![Tampilan Awal](images/tampilan_awal.png)
-
-*Gambar 1: Tampilan awal aplikasi menampilkan form input dan tabel data mahasiswa*
-
-### Menambahkan Data Mahasiswa
-
-![Menambah Data](images/tambah_data.png)
-
-*Gambar 2: Mengisi form untuk menambahkan data mahasiswa baru*
-
-![Data Berhasil Ditambahkan](images/data_ditambahkan.png)
-
-*Gambar 3: Notifikasi data berhasil ditambahkan dan data baru muncul di tabel*
-
-### Mengubah Data Mahasiswa
-
-![Memilih Data](images/pilih_data.png)
-
-*Gambar 4: Memilih data mahasiswa yang akan diubah dengan mengklik baris pada tabel*
-
-![Mengubah Data](images/ubah_data.png)
-
-*Gambar 5: Form terisi dengan data yang dipilih, tombol berubah menjadi "Update" dan "Delete"*
-
-![Data Berhasil Diubah](images/data_diubah.png)
-
-*Gambar 6: Notifikasi data berhasil diubah dan perubahan terlihat pada tabel*
-
-### Menghapus Data Mahasiswa
-
-![Menghapus Data](images/hapus_data.png)
-
-*Gambar 7: Konfirmasi penghapusan data*
-
-![Data Berhasil Dihapus](images/data_dihapus.png)
-
-*Gambar 8: Notifikasi data berhasil dihapus dan data tidak lagi muncul di tabel*
-
-### Penggunaan Slider Semester
-
-![Slider Semester](images/slider_semester.png)
-
-*Gambar 9: Menggunakan slider untuk memilih semester mahasiswa*
 
 ## Catatan Implementasi
 
 - Aplikasi menggunakan ArrayList untuk menyimpan data mahasiswa secara sementara (tidak persisten)
 - Data akan hilang ketika aplikasi ditutup
-
-## Persyaratan Sistem
-
-- Java Runtime Environment (JRE) 8 atau lebih tinggi
-- Sistem operasi: Windows, macOS, atau Linux
-
-## Cara Menjalankan Program
-
-1. Pastikan JRE sudah terinstal di komputer Anda
-2. Compile kedua file Java:
