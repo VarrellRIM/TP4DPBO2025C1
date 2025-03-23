@@ -103,13 +103,3 @@ Aplikasi ini telah ditambahkan fitur baru berupa slider untuk memilih semester m
 
 - Aplikasi menggunakan ArrayList untuk menyimpan data mahasiswa secara sementara (tidak persisten)
 - Data akan hilang ketika aplikasi ditutup
-
-## Persyaratan Sistem
-
-- Java Runtime Environment (JRE) 8 atau lebih tinggi
-- Sistem operasi: Windows, macOS, atau Linux
-
-## Cara Menjalankan Program
-
-1. Pastikan JRE sudah terinstal di komputer Anda
-2. Compile kedua file Java:
