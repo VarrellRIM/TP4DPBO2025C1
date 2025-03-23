@@ -94,8 +94,11 @@ Aplikasi ini telah ditambahkan fitur baru berupa slider untuk memilih semester m
 - Nilai semester yang dipilih ditampilkan di sebelah slider
 - Nilai semester disimpan dalam objek Mahasiswa dan ditampilkan di tabel
 
-## Screenshot Program
-![image](https://github.com/user-attachments/assets/a619f0b9-98a7-4556-bb11-37e56551a867)
+## Dokumentasi
+https://github.com/user-attachments/assets/f2f1fcf7-2551-4e7d-89fb-0eddf211fcf3
+
+
+
 
 
 
